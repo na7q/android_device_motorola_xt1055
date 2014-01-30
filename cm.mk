@@ -18,4 +18,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_BRAND=motorola \
     PRODUCT_NAME=XT1055 \
     BUILD_PRODUCT=ghost_usc \
-    BUILD_FINGERPRINT=motorola/ghost_usc/ghost:4.2.2/13.9.0Q2.X-116-MX-17-57/7:user/release-keys
+    BUILD_FINGERPRINT=motorola/ghost_usc/ghost:4.4/13.11.3Q2.X-69-3-2/11:user/release-keys
